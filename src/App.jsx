@@ -1,12 +1,10 @@
 import React, { useContext, useState } from 'react'
 import Input from "./Components/Input"
-
 import Progress from "./Components/Progress"
 import Task from "./Components/Task"
 import "./Style.css"
 import Modals from './Components/Modals'
 import TaskContext from './Context/Contextcreate'
-
 
 function App() {
 
